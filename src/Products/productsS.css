@@ -1,0 +1,143 @@
+@media (max-width: 500px) {
+  .products-heading {
+    font-size: 1.2em;
+    color: #262626;
+    padding: 10px;
+    margin-top: 90px;
+    font-weight: 700;
+    padding: 20px 0px;
+    text-align: center;
+    width: 100%;
+    background-color: whitesmoke;
+  }
+  .products-para {
+    font-family: "roboto", sans-serif;
+    font-size: 1.1em;
+    color: #0a0909;
+    width: 100%;
+    padding: 40px 20px;
+    border-radius: 4px;
+    background-color: rgb(233, 255, 235);
+  }
+  .products-list {
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: wrap;
+    padding: 20px 5px;
+    padding-top: 20px;
+    justify-content: space-around;
+  }
+  .products-page {
+  }
+  .medicineList {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 30px;
+    border-bottom: 1px solid #ecebeb;
+    border-top: 1px solid #ebe8e8;
+  }
+  .medicineList a {
+    color: #262626;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 4px 4px;
+    margin-top: 5px;
+    width: 50%;
+  }
+}
+@media (min-width: 500px) and (max-width: 900px) {
+  .products-heading {
+    font-size: 1.6em;
+    color: #262626;
+    padding: 10px;
+    margin-top: 90px;
+    font-weight: 900;
+    padding: 30px 0px;
+    text-align: center;
+    width: 100%;
+    background-color: whitesmoke;
+  }
+}
+@media (min-width: 900px) {
+  .products-heading {
+    font-size: 1.8em;
+    color: #262626;
+    padding: 10px;
+    margin-top: 120px;
+    font-weight: 700;
+    padding: 30px 0px;
+    text-align: center;
+    width: 100%;
+    background-color: whitesmoke;
+  }
+}
+@media (min-width: 500px) {
+  .products-para {
+    font-family: "roboto", sans-serif;
+    font-size: 1.2em;
+    color: #0a0909;
+    width: 100%;
+    padding: 40px 20px;
+    border-radius: 4px;
+    background-color: rgb(233, 255, 235);
+  }
+  .products-list {
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: wrap;
+    padding: 40px 40px;
+    padding-top: 20px;
+    justify-content: space-around;
+  }
+  .products-page {
+  }
+  .medicineList {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 30px;
+    border-bottom: 1px solid #ecebeb;
+    border-top: 1px solid #ebe8e8;
+  }
+  .medicineList a {
+    color: #262626;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 4px 4px;
+    margin-top: 5px;
+    width: 50%;
+  }
+}
+@media (min-width: 500px) and (max-width: 800px) {
+  .medicineList a {
+    color: #262626;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 4px 4px;
+    margin-top: 5px;
+    width: 32%;
+  }
+}
+@media (min-width: 800px) and (max-width: 1200px) {
+  .medicineList a {
+    color: #262626;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 4px 4px;
+    margin-top: 5px;
+    width: 25%;
+  }
+}
+@media (min-width: 1200px) {
+  .medicineList a {
+    color: #262626;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 4px 4px;
+    margin-top: 5px;
+    width: 20%;
+  }
+}

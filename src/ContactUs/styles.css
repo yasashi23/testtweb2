@@ -1,0 +1,126 @@
+@media (max-width: 500px) {
+  .contact-us h1 {
+    font-size: 1.6em;
+    color: #3f3e3e;
+
+    margin-left: 10px;
+    font-weight: 700;
+    background: whitesmoke;
+    padding: 20px 0px;
+    text-align: center;
+  }
+  .contact-us {
+    min-height: 80vh;
+    margin-top: 90px;
+  }
+
+  .contact-us h3 {
+    padding: 10px 5px;
+
+    margin: 5px 20px;
+    border-radius: 4px;
+    font-size: 1em;
+    font-family: 'lora', serif;
+    color: #262626;
+    background-color: #f5fff5;
+    display: inline-block;
+  }
+  .contact-us h2 {
+    color: #414141;
+    font-family: 'lora', serif;
+    font-weight: 400;
+    font-size: 1.2em;
+    padding: 5px 15px;
+    background-color: white;
+    border-radius: 4px;
+    font-weight: bold;
+    white-space: nowrap;
+    text-decoration: none;
+    margin: 0px 2px;
+    margin-left: 10px;
+    white-space: pre-wrap;
+  }
+  .contact-us h3 a {
+    color: #414141;
+    font-family: 'lora', serif;
+    font-weight: 400;
+    font-size: 1em;
+    padding: 5px 10px;
+
+    border-radius: 4px;
+    font-weight: bold;
+    white-space: nowrap;
+    text-decoration: none;
+    margin: 0px 2px;
+  }
+}
+@media (min-width: 500px) and (max-width: 900px) {
+  .contact-us h1 {
+    font-size: 1.6em;
+    color: #262626;
+    margin-top: 90px;
+    margin-left: 20px;
+    font-weight: 700;
+    width: 100%;
+    background: whitesmoke;
+    padding: 30px 0px;
+    text-align: center;
+  }
+}
+@media (min-width: 900px) {
+  .contact-us h1 {
+    font-size: 1.6em;
+    color: #262626;
+    margin-top: 90px;
+    margin-left: 20px;
+    font-weight: 700;
+    width: 100%;
+    background: whitesmoke;
+    padding: 30px 0px;
+    text-align: center;
+  }
+}
+@media (min-width: 500px) {
+  .contact-us {
+    min-height: 80vh;
+  }
+
+  .contact-us h3 {
+    padding: 10px 20px;
+
+    margin: 5px 20px;
+    border-radius: 4px;
+    font-size: 1em;
+    font-family: 'lora', serif;
+    color: #262626;
+    background-color: #f5fff5;
+    display: inline-block;
+  }
+  .contact-us h2 {
+    color: #414141;
+    font-family: 'lora', serif;
+    font-weight: 400;
+    font-size: 1.4em;
+    padding: 5px 15px;
+    background-color: white;
+    border-radius: 4px;
+    font-weight: bold;
+    white-space: nowrap;
+    text-decoration: none;
+    margin: 0px 2px;
+    margin-left: 10px;
+  }
+  .contact-us h3 a {
+    color: #414141;
+    font-family: 'lora', serif;
+    font-weight: 400;
+    font-size: 1em;
+    padding: 5px 10px;
+
+    border-radius: 4px;
+    font-weight: bold;
+    white-space: nowrap;
+    text-decoration: none;
+    margin: 0px 2px;
+  }
+}

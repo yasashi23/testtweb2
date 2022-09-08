@@ -1,0 +1,86 @@
+@media (max-width: 500px) {
+  .termsOfUse {
+    width: 100%;
+  }
+  .termsOfUse-a {
+    display: flex;
+    flex-direction: column;
+
+    min-height: 90vh;
+    margin-top: 120px;
+    padding: 20px;
+  }
+
+  .termsOfUse-a h2 {
+    font-family: "source sans pro", sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+    color: #262626;
+    margin: 10px 0px;
+  }
+  .termsOfUse-a p {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 0.9em;
+    color: #646161;
+    margin: 5px 0px;
+  }
+  .termsOfUse-a ol {
+    margin: 10px 0px;
+  }
+  .termsOfUse-a li {
+    margin-left: 20px;
+    font-size: 0.9em;
+    color: #646161;
+  }
+  .termsOfUse-a h3 {
+    font-family: "source sans pro", sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+    color: #262626;
+
+    margin-left: 5px;
+  }
+}
+@media (min-width: 500px) {
+  .termsOfUse {
+    width: 100%;
+  }
+  .termsOfUse-a {
+    display: flex;
+    flex-direction: column;
+
+    min-height: 90vh;
+    margin-top: 120px;
+    padding: 20px;
+  }
+
+  .termsOfUse-a h2 {
+    font-family: "source sans pro", sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+    color: #262626;
+    margin: 10px 0px;
+  }
+  .termsOfUse-a h3 {
+    font-family: "source sans pro", sans-serif;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: #262626;
+
+    margin-left: 5px;
+  }
+  .termsOfUse-a p {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 0.9em;
+    color: #646161;
+    margin: 5px 0px;
+  }
+  .termsOfUse-a ol {
+    margin: 10px 0px;
+  }
+  .termsOfUse-a li {
+    margin-left: 20px;
+    font-size: 0.9em;
+    color: #646161;
+  }
+}

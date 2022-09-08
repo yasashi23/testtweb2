@@ -1,0 +1,3382 @@
+[
+  {
+    "id": 15,
+    "ingredients": [
+      {
+        "id": 144,
+        "scale": "g",
+        "name": "Pterocarpus Santalinus",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "3",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 145,
+        "scale": "mg",
+        "name": "Philanthus Emblica",
+        "description": "null",
+        "amount": 150,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 146,
+        "scale": "mg",
+        "name": "Zingiber Officinate",
+        "description": "null",
+        "amount": 150,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 147,
+        "scale": "mg",
+        "name": "Pueraria Tuberasa",
+        "description": "null",
+        "amount": 225,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 148,
+        "scale": "mg",
+        "name": "Terminilia Arjuna",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 149,
+        "scale": "mg",
+        "name": "Chlorophytum Arundinaceun",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 150,
+        "scale": "mg",
+        "name": "Vitis Vinifera",
+        "description": "null",
+        "amount": 148,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 151,
+        "scale": "mg",
+        "name": "Sida Cardisolia",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 152,
+        "scale": "mg",
+        "name": "Tribulus Terrestries",
+        "description": "null",
+        "amount": 125,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 153,
+        "scale": "mg",
+        "name": "Mucuna Pruriens",
+        "description": "null",
+        "amount": 225,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 154,
+        "scale": "mg",
+        "name": "Asparagus Racemosus",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 155,
+        "scale": "mg",
+        "name": "Withani Somnifera",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 156,
+        "scale": "mg",
+        "name": "Myrstica Fragrans",
+        "description": "null",
+        "amount": 150,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 157,
+        "scale": "mg",
+        "name": "Ficus Caricca",
+        "description": "null",
+        "amount": 25,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 158,
+        "scale": "mg",
+        "name": "Lipidium Sativum",
+        "description": "null",
+        "amount": 150,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 159,
+        "scale": "mg",
+        "name": "Adhatodavasica",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      },
+      {
+        "id": 160,
+        "scale": "mg",
+        "name": "Crocus Sativus Linn",
+        "description": "null",
+        "amount": 25,
+        "amount_scale": "2",
+        "image": null,
+        "product": 15
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "180.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "100 ml",
+      "composition": "Each 10 ml contains",
+      "warning": "null",
+      "p_type": "Tonic"
+    },
+    "images": [
+      {
+        "id": 51,
+        "image": "AyurPlex.jpg",
+        "caption": "Ayur Plex Tonic"
+      },
+      {
+        "id": 52,
+        "image": "AyurPlex2.jpg",
+        "caption": "Ayur Plex Tonic"
+      },
+      {
+        "id": 53,
+        "image": "AyurPlex3.jpg",
+        "caption": "Ayur Plex Tonic"
+      }
+    ],
+    "title": "AYUR PLEX",
+    "headline": "Useful in Useful in Atherosclerosis",
+    "description": "Diebetic Patient;null;null;Useful in Atherosclerosis,Immunostimulant,Anti Oxidant,Free Radical Scavenger in Chemotoxicity of Cancer Cardio Vascular Disease",
+    "indication": "Atherosclerosis,In Degenerative Disease",
+    "usage": "5-10 ml twice a day",
+    "active": true
+  },
+  {
+    "id": 13,
+    "ingredients": [
+      {
+        "id": 126,
+        "scale": "mg",
+        "name": "Coriandrum sativum",
+        "description": "null",
+        "amount": 500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 13
+      },
+      {
+        "id": 127,
+        "scale": "mg",
+        "name": "Cuminum Cyminum",
+        "description": "null",
+        "amount": 500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 13
+      },
+      {
+        "id": 128,
+        "scale": "mg",
+        "name": "Plumbago Zeylanca",
+        "description": "null",
+        "amount": 500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 13
+      },
+      {
+        "id": 129,
+        "scale": "mg",
+        "name": "Tinospora Cordifolia",
+        "description": "null",
+        "amount": 500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 13
+      },
+      {
+        "id": 130,
+        "scale": "mg",
+        "name": "Solanum Nigrum",
+        "description": "null",
+        "amount": 500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 13
+      },
+      {
+        "id": 131,
+        "scale": "mg",
+        "name": "Cinnamomum Zeylanicum",
+        "description": "null",
+        "amount": 500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 13
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "450.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "50 ml",
+      "composition": "Each 10 ml contains;Each 1 ml Contains,Proteins 14%,Fats 16%,Carbohydrates 22%,Minerals 5%,Calcium 0.63%,Phosphorus 0.40, Folic Acid 30%",
+      "warning": "null",
+      "p_type": "Drops"
+    },
+    "images": [
+      {
+        "id": 39,
+        "image": "boonDrops1.jpg",
+        "caption": "Boon Drops"
+      },
+      {
+        "id": 40,
+        "image": "Boon.jpg",
+        "caption": "Boon Drops"
+      },
+      {
+        "id": 41,
+        "image": "Boon2.jpg",
+        "caption": "Boon Drops"
+      },
+      {
+        "id": 42,
+        "image": "Boon3.jpg",
+        "caption": "Boon Drops"
+      },
+      {
+        "id": 43,
+        "image": "Boon4.jpg",
+        "caption": "Boon Drops"
+      },
+      {
+        "id": 44,
+        "image": "Boon5.jpg",
+        "caption": "Boon Drops"
+      },
+      {
+        "id": 95,
+        "image": "Boon6.jpg",
+        "caption": "Boon Drops"
+      }
+    ],
+    "title": "BOON",
+    "headline": "Useful in Gastric Problem",
+    "description": "Gastic Problems;null;null;Cures Morning Sickness during Pregnancy,Rich Source of Folic Acid,Cures UTI,Useful in Anorexia",
+    "indication": "Gastric Problem,Vomiting,Indigestion,Abdominal Colic,Gastritis",
+    "usage": "10-15 Drops twice a day",
+    "active": true
+  },
+  {
+    "id": 22,
+    "ingredients": [
+      {
+        "id": 253,
+        "scale": "mg",
+        "name": "Terminalia Chebula",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 22
+      },
+      {
+        "id": 254,
+        "scale": "mg",
+        "name": "Terminalia Belerica",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 22
+      },
+      {
+        "id": 255,
+        "scale": "mg",
+        "name": "Emblica Officanalis",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 22
+      },
+      {
+        "id": 256,
+        "scale": "mg",
+        "name": "Aloe Barbadensis",
+        "description": "null",
+        "amount": 70,
+        "amount_scale": "2",
+        "image": null,
+        "product": 22
+      },
+      {
+        "id": 257,
+        "scale": "mg",
+        "name": "Shankh Bhasam",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 22
+      },
+      {
+        "id": 258,
+        "scale": "mg",
+        "name": "Mukta Bhasam",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "2",
+        "image": null,
+        "product": 22
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "450.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "60 Tablets",
+      "composition": "Each tablet contains:",
+      "warning": "null",
+      "p_type": "Tablets"
+    },
+    "images": [
+      {
+        "id": 89,
+        "image": "calciN.jpg",
+        "caption": "CALCI-N"
+      },
+      {
+        "id": 90,
+        "image": "calciN2.jpg",
+        "caption": "CALCI-N"
+      },
+      {
+        "id": 91,
+        "image": "calciN3.jpg",
+        "caption": "CALCI-N"
+      }
+    ],
+    "title": "CALCI-N",
+    "headline": "Useful in Osteoporosis",
+    "description": "Osteoporosis;null;null;Natural Organic Calcium with no Risk of Hypercalcemia,Increases the B.M.D. Significantly within 3-6 Months,Analgesis & Anti-Inflammatory Action",
+    "indication": "Osteoporosis",
+    "usage": "1 Tablets twice a day",
+    "active": true
+  },
+  {
+    "id": 1,
+    "ingredients": [
+      {
+        "id": 1,
+        "scale": "mg",
+        "name": "Doorba (Cynodondactylon)",
+        "description": "null",
+        "amount": 1500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 1
+      },
+      {
+        "id": 2,
+        "scale": "mg",
+        "name": "Shringhtak (Trapanatanslin)",
+        "description": "null",
+        "amount": 1500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 1
+      },
+      {
+        "id": 3,
+        "scale": "mg",
+        "name": "Shatpatra (Nelumbonucifera)",
+        "description": "null",
+        "amount": 1500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 1
+      },
+      {
+        "id": 4,
+        "scale": "mg",
+        "name": "Putrajeevak (Putranjiva Roxburghiil)",
+        "description": "null",
+        "amount": 1498,
+        "amount_scale": "2",
+        "image": null,
+        "product": 1
+      }
+    ],
+    "detail": {
+      "scale": "kg",
+      "price": "540.00",
+      "weight": 0,
+      "weight_scale": "4",
+      "quantity": "50 ml",
+      "composition": "Each 10 ml contains",
+      "warning": "null",
+      "p_type": "Drops"
+    },
+    "images": [
+      {
+        "id": 1,
+        "image": "concieveN1.jpg",
+        "caption": "Conceive-N"
+      },
+      {
+        "id": 2,
+        "image": "conceive-n-.jpg",
+        "caption": "Conceive-N"
+      },
+      {
+        "id": 3,
+        "image": "conceive-n2.jpg",
+        "caption": "Conceive-N"
+      },
+      {
+        "id": 4,
+        "image": "conceive-n3.jpg",
+        "caption": "Conceive-N"
+      },
+      {
+        "id": 5,
+        "image": "conceive-n4.jpg",
+        "caption": "Conceive-N"
+      },
+      {
+        "id": 6,
+        "image": "conceive-n5.jpg",
+        "caption": "Conceive-N"
+      },
+      {
+        "id": 74,
+        "image": "conceive-n6.jpg",
+        "caption": "Conceive-N"
+      }
+    ],
+    "title": "CONCEIVE-N Drops",
+    "headline": "Sugar free Drops",
+    "description": "Conceive-N;null;null;Offers Anti-bacterial & Anti Inflammatory action & Cures Veginitis,Offers healthy improvement of Follicular Maturity,Restores the tone of Endometrium & Normalize Endometrial Thickness,Offers wonderful relief in threatened & habitual abortion,Increases Vitality,Garbhasthapak as well as uterine Tonic,Uterine Tonic during the Pregnancy",
+    "indication": "Pelvic Chronic Inflammation & Vaginitis,Anovulatory Cycle,Endometrium Proliferation",
+    "usage": "10 to 15 drops twice a day",
+    "active": true
+  },
+  {
+    "id": 51,
+    "ingredients": [
+      {
+        "id": 1,
+        "scale": "mg",
+        "name": "Trapa natans",
+        "description": "null",
+        "amount": 75,
+        "amount_scale": "2",
+        "image": null,
+        "product": 1
+      },
+      {
+        "id": 2,
+        "scale": "mg",
+        "name": "Nelumbo nucifera",
+        "description": "null",
+        "amount": 75,
+        "amount_scale": "2",
+        "image": null,
+        "product": 1
+      },
+      {
+        "id": 3,
+        "scale": "mg",
+        "name": "Putraniva roxburgii",
+        "description": "null",
+        "amount": 75,
+        "amount_scale": "2",
+        "image": null,
+        "product": 1
+      },
+      {
+        "id": 4,
+        "scale": "mg",
+        "name": "Cynodon dactylon",
+        "description": "null",
+        "amount": 75,
+        "amount_scale": "2",
+        "image": null,
+        "product": 1
+      }
+    ],
+    "detail": {
+      "scale": "kg",
+      "price": "160.00",
+      "weight": 0,
+      "weight_scale": "4",
+      "quantity": "30 table",
+      "composition": "Each Sugar Coated tablet contains",
+      "warning": "null",
+      "p_type": "Tablets"
+    },
+    "images": [
+      {
+        "id": 1,
+        "image": "conceiveN_tablets_1.jpg",
+        "caption": "Conceive-N Tablets"
+      },
+      {
+        "id": 2,
+        "image": "conceiveN_tablets_2.jpg",
+        "caption": "Conceive-N Tablets"
+      }
+    ],
+    "title": "CONCEIVE-N Tablets",
+    "headline": "Increases Conception Rate",
+    "description": "Conceive-N;null;null;Offers healthy improvement of Follicular Maturity,Offers wonderful relief in threatened & habitual abortion,Increases Vitality,Garbhasthapak as well as uterine Tonic,Increses Conception Rate",
+    "indication": "Pelvic Chronic Inflammation & Vaginitis,Anovulatory Cycle,Endometrium Proliferation",
+    "usage": "1 or 2 tablets twice a day",
+    "active": true
+  },
+
+  {
+    "id": 20,
+    "ingredients": [
+      {
+        "id": 202,
+        "scale": "mg",
+        "name": "Tagar",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 20
+      },
+      {
+        "id": 203,
+        "scale": "mg",
+        "name": "Khurasani Ajwain",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 20
+      },
+      {
+        "id": 204,
+        "scale": "mg",
+        "name": "Lodhra",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 20
+      },
+      {
+        "id": 205,
+        "scale": "mg",
+        "name": "Sarpgandha",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "2",
+        "image": null,
+        "product": 20
+      },
+      {
+        "id": 206,
+        "scale": "mg",
+        "name": "Dhale palks Grounds",
+        "description": "null",
+        "amount": 20,
+        "amount_scale": "2",
+        "image": null,
+        "product": 20
+      },
+      {
+        "id": 207,
+        "scale": "mg",
+        "name": "Yashad Bhasam",
+        "description": "null",
+        "amount": 20,
+        "amount_scale": "2",
+        "image": null,
+        "product": 20
+      },
+      {
+        "id": 208,
+        "scale": "mg",
+        "name": "Swaran Makshik",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "2",
+        "image": null,
+        "product": 20
+      },
+      {
+        "id": 209,
+        "scale": "mg",
+        "name": "Bang Bhasam",
+        "description": "null",
+        "amount": 25,
+        "amount_scale": "2",
+        "image": null,
+        "product": 20
+      },
+      {
+        "id": 210,
+        "scale": "mg",
+        "name": "Abhrak Bhasam",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "2",
+        "image": null,
+        "product": 20
+      },
+      {
+        "id": 211,
+        "scale": "mg",
+        "name": "Godanti Bhasama",
+        "description": "null",
+        "amount": 15,
+        "amount_scale": "2",
+        "image": null,
+        "product": 20
+      },
+      {
+        "id": 212,
+        "scale": "mg",
+        "name": "Kasis",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "2",
+        "image": null,
+        "product": 20
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "230.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "60 Tablets",
+      "composition": "Each 10 ml contains",
+      "warning": "null",
+      "p_type": "Tablets"
+    },
+    "images": [
+      {
+        "id": 63,
+        "image": "dcoardial_tablets_1.jpg",
+        "caption": "D-COARDIAL Tablets"
+      },
+      {
+        "id": 64,
+        "image": "dcoardial_tablets_2.jpg",
+        "caption": "D-COARDIAL Tablets"
+      }
+    ],
+    "title": "D-COARDIAL Tablets",
+    "headline": "Leucorrhoea",
+    "description": "Liver & Kidney;null;null;Useful in Leucorrhoea",
+    "indication": "Leucorrhoea",
+    "usage": "As directed by the Physician",
+    "active": true
+  },
+  {
+    "id": 3,
+    "ingredients": [
+      {
+        "id": 13,
+        "scale": "kg",
+        "name": "Each tablet contains",
+        "description": "null",
+        "amount": 0,
+        "amount_scale": "4",
+        "image": null,
+        "product": 3
+      },
+      {
+        "id": 14,
+        "scale": "mg",
+        "name": "Babool (Acacia Arabica)",
+        "description": "null",
+        "amount": 125,
+        "amount_scale": "2",
+        "image": null,
+        "product": 3
+      },
+      {
+        "id": 15,
+        "scale": "mg",
+        "name": "Daru Hridra(Berberisaristata)",
+        "description": "null",
+        "amount": 125,
+        "amount_scale": "2",
+        "image": null,
+        "product": 3
+      },
+      {
+        "id": 217,
+        "scale": "mg",
+        "name": "Sakhu (Shorea Robusta Gaerta)",
+        "description": "null",
+        "amount": 125,
+        "amount_scale": "2",
+        "image": null,
+        "product": 3
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "270.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "60 Tablets",
+      "composition": "null",
+      "warning": "null",
+      "p_type": "Tablets"
+    },
+    "images": [
+      {
+        "id": 10,
+        "image": "Dubtone.jpg",
+        "caption": "DUB-TONE TABLETS"
+      },
+      {
+        "id": 11,
+        "image": "Dubtone2.jpg",
+        "caption": "DUB-TONE TABLETS"
+      }
+    ],
+    "title": "DUB-TONE Tablets",
+    "headline": "Useful in Bulky Uterus",
+    "description": "Fibroid Uterus;null;null;Gives good results in small multiple Fibroids in Uterus with SHEBA Drops & Tablets",
+    "indication": "Menorrhagia,Metrorrhagia,Dysfunctional Uterine Bleeding, In P.I.D. Cases, Excessive Premenopausal Bleeding",
+    "usage": "2 Tablets twice a day",
+    "active": true
+  },
+  {
+    "id": 23,
+    "ingredients": [
+      {
+        "id": 259,
+        "scale": "mg",
+        "name": "Mandur Bhasam",
+        "description": "null",
+        "amount": 60,
+        "amount_scale": "2",
+        "image": null,
+        "product": 23
+      },
+      {
+        "id": 260,
+        "scale": "mg",
+        "name": "Saunth",
+        "description": "null",
+        "amount": 20,
+        "amount_scale": "2",
+        "image": null,
+        "product": 23
+      },
+      {
+        "id": 261,
+        "scale": "mg",
+        "name": "Pippali",
+        "description": "null",
+        "amount": 20,
+        "amount_scale": "2",
+        "image": null,
+        "product": 23
+      },
+      {
+        "id": 262,
+        "scale": "mg",
+        "name": "Viavidang",
+        "description": "null",
+        "amount": 10,
+        "amount_scale": "2",
+        "image": null,
+        "product": 23
+      },
+      {
+        "id": 263,
+        "scale": "mg",
+        "name": "Daruhaldi",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 23
+      },
+      {
+        "id": 264,
+        "scale": "mg",
+        "name": "Chitrak",
+        "description": "null",
+        "amount": 60,
+        "amount_scale": "2",
+        "image": null,
+        "product": 23
+      },
+      {
+        "id": 265,
+        "scale": "mg",
+        "name": "Haridra",
+        "description": "null",
+        "amount": 10,
+        "amount_scale": "2",
+        "image": null,
+        "product": 23
+      },
+      {
+        "id": 266,
+        "scale": "mg",
+        "name": "Amla",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 23
+      },
+      {
+        "id": 267,
+        "scale": "mg",
+        "name": "Baheda",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 23
+      },
+      {
+        "id": 268,
+        "scale": "mg",
+        "name": "Harar",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 23
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "450.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "60 Tablets",
+      "composition": "Each tablet contains:",
+      "warning": "null",
+      "p_type": "Tablets"
+    },
+    "images": [
+      {
+        "id": 92,
+        "image": "ifaM1.jpg",
+        "caption": "IFA M"
+      },
+      {
+        "id": 93,
+        "image": "ifaM2.jpg",
+        "caption": "IFA M"
+      },
+      {
+        "id": 94,
+        "image": "ifaM3.jpg",
+        "caption": "IFA M"
+      }
+    ],
+    "title": "IFA-M",
+    "headline": "Useful in Anaemia",
+    "description": "Anaemia;null;null;Useful in Anaemia",
+    "indication": "Anaemia",
+    "usage": "1 Tablet twice a day",
+    "active": true
+  },
+  {
+    "id": 14,
+    "ingredients": [
+      {
+        "id": 132,
+        "scale": "mg",
+        "name": "Each 10 ml contains",
+        "description": "null",
+        "amount": 0,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 133,
+        "scale": "mg",
+        "name": "Tinospora cordifolia",
+        "description": "null",
+        "amount": 500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 134,
+        "scale": "mg",
+        "name": "Piper Longum",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 135,
+        "scale": "mg",
+        "name": "Clerodendrum Serratum",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 136,
+        "scale": "mg",
+        "name": "Cinnamomum Zeylanicum",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 137,
+        "scale": "mg",
+        "name": "Volia odarata",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 138,
+        "scale": "mg",
+        "name": "Inula racemosa",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 139,
+        "scale": "mg",
+        "name": "Solanum surattnse",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 140,
+        "scale": "mg",
+        "name": "Glycyrrhiza Glabra",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 141,
+        "scale": "mg",
+        "name": "Curcuma Zedoaria",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 142,
+        "scale": "mg",
+        "name": "Abiea Webbiana",
+        "description": "null",
+        "amount": 500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 143,
+        "scale": "mg",
+        "name": "Ephedra Gerardiana",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 269,
+        "scale": "mg",
+        "name": "Adhatoda Vasica",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 270,
+        "scale": "mg",
+        "name": "Each 10 gm Contains",
+        "description": "null",
+        "amount": 0,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 271,
+        "scale": "g",
+        "name": "Adhusa",
+        "description": "null",
+        "amount": 2,
+        "amount_scale": "3",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 272,
+        "scale": "g",
+        "name": "Nagarmotha",
+        "description": "null",
+        "amount": 1,
+        "amount_scale": "3",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 273,
+        "scale": "g",
+        "name": "Bharangi",
+        "description": "null",
+        "amount": 1,
+        "amount_scale": "3",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 274,
+        "scale": "mg",
+        "name": "Chirayta",
+        "description": "null",
+        "amount": 1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 275,
+        "scale": "mg",
+        "name": "Kakarsinghi",
+        "description": "null",
+        "amount": 1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 276,
+        "scale": "mg",
+        "name": "Kateri",
+        "description": "null",
+        "amount": 1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 277,
+        "scale": "mg",
+        "name": "Mulheti",
+        "description": "null",
+        "amount": 1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      },
+      {
+        "id": 278,
+        "scale": "mg",
+        "name": "Kachur",
+        "description": "null",
+        "amount": 1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 14
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "470.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "50 ml Drops and 100 gm Powder",
+      "composition": "null",
+      "warning": "null",
+      "p_type": "Drops and Powder"
+    },
+    "images": [
+      {
+        "id": 45,
+        "image": "kofNDrops1.jpg",
+        "caption": "KOF-N Drops"
+      },
+      {
+        "id": 46,
+        "image": "KOF-N2.jpg",
+        "caption": "KOF-N Drops"
+      },
+      {
+        "id": 47,
+        "image": "KOF-N3.jpg",
+        "caption": "KOF-N Drops"
+      },
+      {
+        "id": 48,
+        "image": "KOF-N4.jpg",
+        "caption": "KOF-N Drops"
+      },
+      {
+        "id": 49,
+        "image": "KOF-N5.jpg",
+        "caption": "KOF-N Drops"
+      },
+      {
+        "id": 50,
+        "image": "KOF-N6.jpg",
+        "caption": "KOF-N Drops"
+      },
+      {
+        "id": 96,
+        "image": "koffNPowder1.jpg",
+        "caption": "KOF-N Powder"
+      },
+      {
+        "id": 97,
+        "image": "koffNPowder2.jpg",
+        "caption": "KOF-N Powder"
+      },
+      {
+        "id": 98,
+        "image": "koffNPowder3.jpg",
+        "caption": "KOF-N Powder"
+      }
+    ],
+    "title": "KOF-N",
+    "headline": "Useful in Chronic Cold",
+    "description": "Chest & Alergic Problem;Powder and Drops;null;Useful in Chronic Cold",
+    "indication": "Rhinitis,Acute Bronchitis,Chest Infection",
+    "usage": "10-15 Drops twice a day with hot water",
+    "active": true
+  },
+
+  {
+    "id": 9,
+    "ingredients": [
+      {
+        "id": 76,
+        "scale": "mg",
+        "name": "Ashok Chaal",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 77,
+        "scale": "mg",
+        "name": "Lodhar",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 78,
+        "scale": "mg",
+        "name": "Nagkesar",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 79,
+        "scale": "mg",
+        "name": "Majuphal",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 80,
+        "scale": "mg",
+        "name": "Ashwagandha",
+        "description": "null",
+        "amount": 40,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 81,
+        "scale": "mg",
+        "name": "Supari",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 82,
+        "scale": "mg",
+        "name": "Rasont",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 83,
+        "scale": "mg",
+        "name": "Ral",
+        "description": "null",
+        "amount": 20,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 84,
+        "scale": "mg",
+        "name": "Chandan",
+        "description": "null",
+        "amount": 20,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 85,
+        "scale": "mg",
+        "name": "Aamltas",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 86,
+        "scale": "mg",
+        "name": "Bhelgiri",
+        "description": "null",
+        "amount": 40,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 87,
+        "scale": "mg",
+        "name": "Nagarmotha",
+        "description": "null",
+        "amount": 40,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 88,
+        "scale": "mg",
+        "name": "Bang Bhasam",
+        "description": "null",
+        "amount": 10,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 89,
+        "scale": "mg",
+        "name": "Raupya Bhasam",
+        "description": "null",
+        "amount": 10,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 90,
+        "scale": "mg",
+        "name": "Yasad Bhasam",
+        "description": "null",
+        "amount": 15,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 91,
+        "scale": "mg",
+        "name": "Loh Bhasam",
+        "description": "null",
+        "amount": 20,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 92,
+        "scale": "mg",
+        "name": "Kukkutandatwak Bhasam",
+        "description": "null",
+        "amount": 10,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      },
+      {
+        "id": 93,
+        "scale": "mg",
+        "name": "Suvanmalini Vasant Ras",
+        "description": "null",
+        "amount": 5,
+        "amount_scale": "2",
+        "image": null,
+        "product": 9
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "220.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "30 Capsules",
+      "composition": "Each Capsule Contains",
+      "warning": "null",
+      "p_type": "Capsule"
+    },
+    "images": [
+      {
+        "id": 30,
+        "image": "Leucona.jpg",
+        "caption": "Leucona"
+      },
+      {
+        "id": 31,
+        "image": "Leucona2.jpg",
+        "caption": "Leucona"
+      },
+      {
+        "id": 32,
+        "image": "Leucona3.jpg",
+        "caption": "Leucona"
+      }
+    ],
+    "title": "LEUCONA",
+    "headline": "Useful in Leucorrhoea",
+    "description": "Leucorrhoea;null;null;Effective in Leucorrhoea,Offers Antibacterial & Anti-Fungal Action,Useful in Endometrial Pyometra",
+    "indication": "Leucorrhoea,Chronic Vaginitis,Endometrial Pyometra",
+    "usage": "2 to 3 Capsules twice a day",
+    "active": true
+  },
+  {
+    "id": 17,
+    "ingredients": [
+      {
+        "id": 173,
+        "scale": "mg",
+        "name": "Jeera",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 174,
+        "scale": "mg",
+        "name": "Pashan Bhed",
+        "description": "null",
+        "amount": 500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 175,
+        "scale": "mg",
+        "name": "Saagon Ke Phool",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 176,
+        "scale": "mg",
+        "name": "Sataver",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 177,
+        "scale": "mg",
+        "name": "Gokhru",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 178,
+        "scale": "mg",
+        "name": "Veeran",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 179,
+        "scale": "mg",
+        "name": "Jatamansai",
+        "description": "null",
+        "amount": 300,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 180,
+        "scale": "mg",
+        "name": "Ajwain",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 181,
+        "scale": "mg",
+        "name": "Surasani Kutki",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 182,
+        "scale": "mg",
+        "name": "Danti",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 183,
+        "scale": "mg",
+        "name": "Punarnava",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 184,
+        "scale": "mg",
+        "name": "Shilajit",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 185,
+        "scale": "mg",
+        "name": "Yavakhar",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 17
+      },
+      {
+        "id": 186,
+        "scale": "q.s",
+        "name": "Sugar Base",
+        "description": "null",
+        "amount": 0,
+        "amount_scale": "1",
+        "image": null,
+        "product": 17
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "180.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "200 ml",
+      "composition": "Each 10 ml contains",
+      "warning": "null",
+      "p_type": "Syrup"
+    },
+    "images": [
+      {
+        "id": 57,
+        "image": "Neurovin.jpg",
+        "caption": "Neurovin Syrup"
+      },
+
+      {
+        "id": 59,
+        "image": "Neurovin3.jpg",
+        "caption": "Neurovin Syrup"
+      }
+    ],
+    "title": "NEUROVIN",
+    "headline": "Useful in Migraine",
+    "description": "Brain Disorder;null;null;Useful in Migraine",
+    "indication": "Epilepsy,Hysteria,Mental Disorder,Headache,Insomnia",
+    "usage": "5-10 ml twice a day",
+    "active": true
+  },
+  {
+    "id": 2,
+    "ingredients": [
+      {
+        "id": 5,
+        "scale": "mg",
+        "name": "Kasni (Cichorium Intybus)",
+        "description": "null",
+        "amount": 150,
+        "amount_scale": "2",
+        "image": null,
+        "product": 2
+      },
+      {
+        "id": 6,
+        "scale": "mg",
+        "name": "Trapusha (Cucmis Satiunm)",
+        "description": "null",
+        "amount": 150,
+        "amount_scale": "2",
+        "image": null,
+        "product": 2
+      },
+      {
+        "id": 7,
+        "scale": "mg",
+        "name": "Majistha (Rubia Cardifolia)",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 2
+      },
+      {
+        "id": 8,
+        "scale": "mg",
+        "name": "Kulthi (Dolichos Biflorus)",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 2
+      },
+      {
+        "id": 9,
+        "scale": "mg",
+        "name": "Darusita (Cinnamomum Zeytancium)",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 2
+      },
+      {
+        "id": 10,
+        "scale": "mg",
+        "name": "Hapusha (Juniperus Commonis)",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 2
+      },
+      {
+        "id": 11,
+        "scale": "mg",
+        "name": "Putiha (Mentha Spicata)",
+        "description": "null",
+        "amount": -5,
+        "amount_scale": "2",
+        "image": null,
+        "product": 2
+      },
+      {
+        "id": 12,
+        "scale": "mg",
+        "name": "Citrullus Vueris",
+        "description": "null",
+        "amount": 350,
+        "amount_scale": "2",
+        "image": null,
+        "product": 2
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "160.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "30",
+      "composition": "Each Film coated tablet Contains",
+      "warning": "null",
+      "p_type": "Tablets"
+    },
+    "images": [
+      {
+        "id": 7,
+        "image": "Oligocure.jpg",
+        "caption": "Oligocure"
+      },
+      {
+        "id": 8,
+        "image": "Oligocure2.jpg",
+        "caption": "Oligocure"
+      },
+      {
+        "id": 9,
+        "image": "Oligocure3.jpg",
+        "caption": "Oligocure"
+      }
+    ],
+    "title": "OLIGOCURE",
+    "headline": "Useful in Scanty Menses",
+    "description": "Scanty Menses & PCOD;null;null;Helps in Increasing endometrial proliferation,Useful in Polycystic ovarian disease (PCOD),Useful in Dysmenorrhea,In Sterility patients having Anovulatory cycle OLIGOCURE should be used along with CONCEIVE-N,In P.C.O.D. OLIGOCURE gives wonderful results along with tablet SHEBA & D-CORDIAL",
+    "indication": "Scanty Menses,Oilgomenorrhea",
+    "usage": "2 Tablets twice a day",
+    "active": true
+  },
+  {
+    "id": 18,
+    "ingredients": [
+      {
+        "id": 187,
+        "scale": "mg",
+        "name": "Amrita",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 18
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "150.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "200 ml",
+      "composition": "Each 10 ml contains",
+      "warning": "null",
+      "p_type": "Tonic"
+    },
+    "images": [
+      {
+        "id": 73,
+        "image": "productDefault.png",
+        "caption": "Reliver"
+      }
+    ],
+    "title": "RELIVER",
+    "headline": "Liver Tonic",
+    "description": "Liver & Kidney;null;null;Useful in Anorexia (Aruchi),Useful in  Jaundice (Kamla),Useful in  Liver Enlargement",
+    "indication": "Jaundice (Kamla), Anorexia (Aruchi), Liver Enlargement",
+    "usage": "5-10 ml twice a day",
+    "active": true
+  },
+  {
+    "id": 4,
+    "ingredients": [
+      {
+        "id": 280,
+        "scale": "mg",
+        "name": "Each 10 ml contains:",
+        "description": "null",
+        "amount": 0,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 281,
+        "scale": "mg",
+        "name": "Terminalia chebula",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 282,
+        "scale": "mg",
+        "name": "Terminalia belerica",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 283,
+        "scale": "mg",
+        "name": "Emblica officinalis",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 284,
+        "scale": "mg",
+        "name": "Piper longum",
+        "description": "null",
+        "amount": 500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 285,
+        "scale": "mg",
+        "name": "Zingiber officinale",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 286,
+        "scale": "mg",
+        "name": "Bauhinia variegata",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 287,
+        "scale": "mg",
+        "name": "Cassia angustifolia",
+        "description": "null",
+        "amount": 500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 288,
+        "scale": "mg",
+        "name": "Elettara Cardamonium",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 289,
+        "scale": "mg",
+        "name": "Curcuma Zedoaria",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 290,
+        "scale": "mg",
+        "name": "Abiea webbiana",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 291,
+        "scale": "mg",
+        "name": "Sphaeranthus indicus",
+        "description": "null",
+        "amount": 1000,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 292,
+        "scale": "mg",
+        "name": "Acacia catechu",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "540.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "50 ml Drops",
+      "composition": "null",
+      "warning": "null",
+      "p_type": "Drops"
+    },
+    "images": [
+      {
+        "id": 12,
+        "image": "shebaDrops7.jpg",
+        "caption": "Sheba Drops"
+      },
+      {
+        "id": 13,
+        "image": "shebaDrops1.jpg",
+        "caption": "Sheba Drops"
+      },
+      {
+        "id": 14,
+        "image": "shebaDrops2.jpg",
+        "caption": "Sheba Drops"
+      },
+      {
+        "id": 75,
+        "image": "shebaDrops3.jpg",
+        "caption": "Sheba Drops"
+      },
+      {
+        "id": 76,
+        "image": "shebaDrops4.jpg",
+        "caption": "Sheba Drops"
+      },
+      {
+        "id": 77,
+        "image": "shebaDrops5.jpg",
+        "caption": "Sheba Drops"
+      },
+      {
+        "id": 78,
+        "image": "shebaDrops6.jpg",
+        "caption": "Sheba Drops"
+      }
+    ],
+    "title": "SHEBA Drops",
+    "headline": "Useful in Cystic Problem",
+    "description": "Cystic Problems & Tumor;Drops;null;Cures Breast Tenderness due to Water Retention,Cures Cystic Lump Growth in Muscular & Fibrotic tissues in Uterus with DUB-TONE,Tab SHEBA Reduces the size of nasal polyps,It reduces the inflamation of tonsils & Adenoids,It Reduces local Collection of Fat,\r\nGives good result in Polycystic Ovarian Diseases(PCOD) with OLIGOCURE Tablets",
+    "indication": "Fibrocyctic Breast Diseases,Renal Cysts",
+    "usage": "10 to 15 drops twice a day",
+    "active": true
+  },
+  {
+    "id": 52,
+    "ingredients": [
+      {
+        "id": 280,
+        "scale": "mg",
+        "name": "Each tablet contains:",
+        "description": "null",
+        "amount": 0,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 281,
+        "scale": "mg",
+        "name": "Terminalia chebula Retz",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 282,
+        "scale": "mg",
+        "name": "Terminalia belerica Retz",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 283,
+        "scale": "mg",
+        "name": "Emblica officinalis",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 284,
+        "scale": "mg",
+        "name": "Piper longum Linn",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 2840,
+        "scale": "mg",
+        "name": "Piper Nigrum  Linn",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 285,
+        "scale": "mg",
+        "name": "Zingiberaceae",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 286,
+        "scale": "mg",
+        "name": "Bhunina varigate Linn",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 287,
+        "scale": "mg",
+        "name": "Crataeva Mulvala Buch",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 288,
+        "scale": "mg",
+        "name": "Elettaria Cardamomum",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 289,
+        "scale": "mg",
+        "name": "Cimnamomum Zeylanicum",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 290,
+        "scale": "mg",
+        "name": "Abies webbiana",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 291,
+        "scale": "mg",
+        "name": "Spheeramthus indicuscinn",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      },
+      {
+        "id": 292,
+        "scale": "mg",
+        "name": "Acciciacatechu wild",
+        "description": "null",
+        "amount": 8,
+        "amount_scale": "2",
+        "image": null,
+        "product": 4
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "160.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "30 Tablets",
+      "composition": "null",
+      "warning": "null",
+      "p_type": "Tablets"
+    },
+    "images": [
+      {
+        "id": 12,
+        "image": "sheba_tablets_1.jpg",
+        "caption": "Sheba Drops"
+      },
+      {
+        "id": 13,
+        "image": "sheba_tablets_2.jpg",
+        "caption": "Sheba Drops"
+      }
+    ],
+    "title": "SHEBA Tablets",
+    "headline": "Useful in Cystic Problem",
+    "description": "Cystic Problems & Tumor;Tablets;null;Cures Breast Tenderness due to Water Retention,Cures Cystic Lump Growth in Muscular & Fibrotic tissues in Uterus with DUB-TONE,Tab SHEBA Reduces the size of nasal polyps,It reduces the inflamation of tonsils & Adenoids,It Reduces local Collection of Fat,\r\nGives good result in Polycystic Ovarian Diseases(PCOD) with OLIGOCURE Tablets",
+    "indication": "Fibrocyctic Breast Diseases,Renal Cysts",
+    "usage": "1 or 2 tablets twice a day",
+    "active": true
+  },
+  {
+    "id": 7,
+    "ingredients": [
+      {
+        "id": 46,
+        "scale": "mg",
+        "name": "Udumbara",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 7
+      },
+      {
+        "id": 47,
+        "scale": "mg",
+        "name": "Bel",
+        "description": "null",
+        "amount": 150,
+        "amount_scale": "2",
+        "image": null,
+        "product": 7
+      },
+      {
+        "id": 48,
+        "scale": "mg",
+        "name": "Tulsi",
+        "description": "null",
+        "amount": 170,
+        "amount_scale": "2",
+        "image": null,
+        "product": 7
+      },
+      {
+        "id": 49,
+        "scale": "mg",
+        "name": "Mulethi",
+        "description": "null",
+        "amount": 170,
+        "amount_scale": "2",
+        "image": null,
+        "product": 7
+      },
+      {
+        "id": 50,
+        "scale": "mg",
+        "name": "Amalki",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 7
+      },
+      {
+        "id": 51,
+        "scale": "mg",
+        "name": "Bang Bhasam",
+        "description": "null",
+        "amount": 20,
+        "amount_scale": "2",
+        "image": null,
+        "product": 7
+      },
+      {
+        "id": 52,
+        "scale": "mg",
+        "name": "Ras Sindoor",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "2",
+        "image": null,
+        "product": 7
+      },
+      {
+        "id": 53,
+        "scale": "mg",
+        "name": "Loh Bhasam",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "2",
+        "image": null,
+        "product": 7
+      },
+      {
+        "id": 54,
+        "scale": "mg",
+        "name": "Babool",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "2",
+        "image": null,
+        "product": 7
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "196.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "30 Tablets",
+      "composition": "Each Sugar coated tablet contains",
+      "warning": "null",
+      "p_type": "Tablet"
+    },
+    "images": [
+      {
+        "id": 21,
+        "image": "soods.jpg",
+        "caption": "SOODS"
+      },
+      {
+        "id": 22,
+        "image": "soods2.jpg",
+        "caption": "SOODS"
+      },
+      {
+        "id": 23,
+        "image": "soods3.jpg",
+        "caption": "SOODS"
+      }
+    ],
+    "title": "SOODS",
+    "headline": "Useful in Polyuria, Nocturia & Bedwetting",
+    "description": "Bedwetting & Polyuria;null;null;Useful in Polyuria,Useful in Nocturia, Useful in Bedwetting",
+    "indication": "Diabetes Pregnancy & Prostate Problems,Interstitial Cystitis,Overactive bladder syndrome,Stroke & other Nurological Diseases, Urinary Incontinence,Bladder Cancer,Bladder Dysfunction,After Radiation Therapy,Bed Wetting,Structural abnormality in the organs muscles or diseases of nervous system,Polyuria due to sickle cell anemia",
+    "usage": "2 Tablets twice a day with Honey",
+    "active": true
+  },
+  {
+    "id": 5,
+    "ingredients": [
+      {
+        "id": 236,
+        "scale": "mg",
+        "name": "Each Capsule contains:",
+        "description": "null",
+        "amount": 0,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 237,
+        "scale": "mg",
+        "name": "Asparagus Adscendens",
+        "description": "null",
+        "amount": 75,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 238,
+        "scale": "mg",
+        "name": "Withania Somnifera",
+        "description": "null",
+        "amount": 75,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 239,
+        "scale": "mg",
+        "name": "Curculigo Orchioides",
+        "description": "null",
+        "amount": 75,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 240,
+        "scale": "mg",
+        "name": "Asparagus Racemosus",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 241,
+        "scale": "mg",
+        "name": "Euryale Ferox",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 242,
+        "scale": "mg",
+        "name": "Asteracantha Longifolia",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 243,
+        "scale": "mg",
+        "name": "Orchis Latifolia",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 244,
+        "scale": "mg",
+        "name": "Mucuna Pruriens",
+        "description": "null",
+        "amount": 25,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 245,
+        "scale": "mg",
+        "name": "Birepharis Persica",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "650.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": " 60 Capsules",
+      "composition": "null",
+      "warning": "null",
+      "p_type": "Capsules "
+    },
+    "images": [
+      {
+        "id": 79,
+        "image": "sperm-fort.jpg",
+        "caption": "Sperm Forte Capsules"
+      },
+      {
+        "id": 80,
+        "image": "sperm-fort2.jpg",
+        "caption": "Sperm Forte Capsules"
+      },
+      {
+        "id": 81,
+        "image": "sperm-fort3.jpg",
+        "caption": "Sperm Forte Capsules"
+      }
+    ],
+    "title": "SPERM FORTE Capsules",
+    "headline": "Male Infertility & Sexual Disorders",
+    "description": "Male Infertility & Sexual Disorders;Capsules;null;Improves problem of Premature Ejaculation,Useful in the psychological Impotence,Use in the improving Libido, Improves Quality of Semen",
+    "indication": "Problem of premature ejaculation",
+    "usage": "2 Capsules twice a day",
+    "active": true
+  },
+
+  {
+    "id": 6,
+    "ingredients": [
+      {
+        "id": 246,
+        "scale": "mg",
+        "name": "Each 100 gm Contains:",
+        "description": "null",
+        "amount": 0,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 247,
+        "scale": "g",
+        "name": "Kaunch beej",
+        "description": "null",
+        "amount": 20,
+        "amount_scale": "3",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 248,
+        "scale": "g",
+        "name": "Safed musli",
+        "description": "null",
+        "amount": 20,
+        "amount_scale": "3",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 249,
+        "scale": "g",
+        "name": "Sataver",
+        "description": "null",
+        "amount": 30,
+        "amount_scale": "3",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 250,
+        "scale": "g",
+        "name": "Talamkhana",
+        "description": "null",
+        "amount": 10,
+        "amount_scale": "3",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 251,
+        "scale": "g",
+        "name": "Shyam musli",
+        "description": "null",
+        "amount": 10,
+        "amount_scale": "3",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 252,
+        "scale": "g",
+        "name": "Ashwgandha",
+        "description": "null",
+        "amount": 10,
+        "amount_scale": "3",
+        "image": null,
+        "product": 5
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "540.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "200 gm Powder",
+      "composition": "null",
+      "warning": "null",
+      "p_type": "Powder"
+    },
+    "images": [
+      {
+        "id": 82,
+        "image": "spermFortePowder1.jpg",
+        "caption": "Sperm Forte Powder"
+      },
+      {
+        "id": 83,
+        "image": "spermFortePowder2.jpg",
+        "caption": "Sperm Forte Powder"
+      },
+      {
+        "id": 84,
+        "image": "spermFortePowder3.jpg",
+        "caption": "Sperm Forte Powder"
+      }
+    ],
+    "title": "SPERM FORTE Powder",
+    "headline": "Male Infertility & Sexual Disorders",
+    "description": "Male Infertility & Sexual Disorders;Capsules, Powder & Tablets;null;Improves problem of Premature Ejaculation,Useful in the psychological Impotence,Use in the improving Libido, Improves Quality of Semen",
+    "indication": "Problem of premature ejaculation",
+    "usage": "5 gm Powder twice a day",
+    "active": true
+  },
+
+  {
+    "id": 8,
+    "ingredients": [
+      {
+        "id": 55,
+        "scale": "mg",
+        "name": "Each Gram Powder Contains:",
+        "description": "null",
+        "amount": 0,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 56,
+        "scale": "mg",
+        "name": "Terminalia chebula",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 57,
+        "scale": "mg",
+        "name": "Emblica officinalis",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 58,
+        "scale": "mg",
+        "name": "Piper longum",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 59,
+        "scale": "mg",
+        "name": "Zingiber officinale",
+        "description": "null",
+        "amount": 99,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 60,
+        "scale": "mg",
+        "name": "Acorus calamus",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 61,
+        "scale": "mg",
+        "name": "Tribulus Terrestries",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 62,
+        "scale": "mg",
+        "name": "Aloe barbadensis",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 63,
+        "scale": "mg",
+        "name": "Commifora mukul",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 64,
+        "scale": "mg",
+        "name": "Ayurvedic Comp Formulation",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 65,
+        "scale": "mg",
+        "name": "Each Capsule contains:",
+        "description": "null",
+        "amount": 0,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 66,
+        "scale": "mg",
+        "name": "Terminalia chebula",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 67,
+        "scale": "mg",
+        "name": "Terminalia belerica",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 68,
+        "scale": "mg",
+        "name": "Emblica Officinalis",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 69,
+        "scale": "mg",
+        "name": "Piper longum",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 70,
+        "scale": "mg",
+        "name": "Zingiber officinale",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 71,
+        "scale": "mg",
+        "name": "Acorus calamus",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 72,
+        "scale": "mg",
+        "name": "Tribulus Terrestries",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 73,
+        "scale": "mg",
+        "name": "Aloe barbadensis",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 74,
+        "scale": "mg",
+        "name": "Commifora mukul",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      },
+      {
+        "id": 75,
+        "scale": "mg",
+        "name": "Ayurvedic Comp Formulations",
+        "description": "null",
+        "amount": 50,
+        "amount_scale": "2",
+        "image": null,
+        "product": 8
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "900.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "75 gms Powder & 60 Tablets",
+      "composition": "null",
+      "warning": "null",
+      "p_type": "Powder & Tablets"
+    },
+    "images": [
+      {
+        "id": 24,
+        "image": "sthultaHari4.jpg",
+        "caption": "SthultaHari"
+      },
+      {
+        "id": 25,
+        "image": "sthultaHari1.jpg",
+        "caption": "SthultaHari"
+      },
+      {
+        "id": 26,
+        "image": "sthultaHari2.jpg",
+        "caption": "SthultaHari"
+      },
+      {
+        "id": 27,
+        "image": "sthultaHari3.jpg",
+        "caption": "SthultaHari"
+      },
+      {
+        "id": 28,
+        "image": "sthultaHari5.jpg",
+        "caption": "SthultaHari"
+      },
+      {
+        "id": 29,
+        "image": "sthultaHari6.jpg",
+        "caption": "SthultaHari"
+      },
+      {
+        "id": 85,
+        "image": "sthultaHari7.jpg",
+        "caption": "SthultaHari"
+      },
+      {
+        "id": 86,
+        "image": "sthultaHari8.jpg",
+        "caption": "SthultaHari"
+      },
+      {
+        "id": 87,
+        "image": "sthultaHari9.jpg",
+        "caption": "SthultaHari"
+      },
+      {
+        "id": 88,
+        "image": "sthultaHari10.jpg",
+        "caption": "SthultaHari"
+      }
+    ],
+    "title": "STHULTA HARI",
+    "headline": "Useful in Weight Loss",
+    "description": "Weight Loss;Powder & Tablets;null;Useful in Arthritis & Gout, Useful in Weight Loss due to Thyroid & Diabetes,Cures Fatty Liver, Improve Chronic Constipation",
+    "indication": "Fatty Liver,Chronic Constipation,Arthritis & Gout",
+    "usage": "1 Capsule & 5 gm Powder twice a day",
+    "active": true
+  },
+  {
+    "id": 16,
+    "ingredients": [
+      {
+        "id": 161,
+        "scale": "mg",
+        "name": "Foeniculum Vulgare",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 16
+      },
+      {
+        "id": 162,
+        "scale": "mg",
+        "name": "Asparagus Racemous",
+        "description": "null",
+        "amount": 400,
+        "amount_scale": "2",
+        "image": null,
+        "product": 16
+      },
+      {
+        "id": 163,
+        "scale": "mg",
+        "name": "Crotalaria Verrucosa Linn",
+        "description": "null",
+        "amount": 600,
+        "amount_scale": "2",
+        "image": null,
+        "product": 16
+      },
+      {
+        "id": 164,
+        "scale": "mg",
+        "name": "Cummunium Cymium",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 16
+      },
+      {
+        "id": 165,
+        "scale": "mg",
+        "name": "Rosacent Folia",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 16
+      },
+      {
+        "id": 166,
+        "scale": "mg",
+        "name": "Withania Sonifera",
+        "description": "null",
+        "amount": 300,
+        "amount_scale": "2",
+        "image": null,
+        "product": 16
+      },
+      {
+        "id": 167,
+        "scale": "mg",
+        "name": "Thymus Sepyllum",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 16
+      },
+      {
+        "id": 168,
+        "scale": "mg",
+        "name": "Terminalia Chebula Retz",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 16
+      },
+      {
+        "id": 169,
+        "scale": "mg",
+        "name": "Bacopa Monnieri",
+        "description": "null",
+        "amount": 500,
+        "amount_scale": "2",
+        "image": null,
+        "product": 16
+      },
+      {
+        "id": 170,
+        "scale": "q.s",
+        "name": "Crocus Sativus",
+        "description": "null",
+        "amount": 25,
+        "amount_scale": "1",
+        "image": null,
+        "product": 16
+      },
+      {
+        "id": 171,
+        "scale": "mg",
+        "name": "Vitis Vinifera",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 16
+      },
+      {
+        "id": 172,
+        "scale": "mg",
+        "name": "Celkastrus PaniCulatas",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 16
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "180.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "100 ml",
+      "composition": "Each 10 ml contains",
+      "warning": "null",
+      "p_type": "Syrup"
+    },
+    "images": [
+      {
+        "id": 54,
+        "image": "Uliv.jpg",
+        "caption": "U-LIV Syrup"
+      },
+      {
+        "id": 55,
+        "image": "Uliv2.jpg",
+        "caption": "U-LIV Syrup"
+      },
+      {
+        "id": 56,
+        "image": "Uliv3.jpg",
+        "caption": "U-LIV Syrup"
+      }
+    ],
+    "title": "U-LIV",
+    "headline": "Useful in weight management",
+    "description": "Diebetic Patient;null;null;Useful in weight management,Useful in general debility,Useful in Metabolic Booster",
+    "indication": "Over Weight,General Debility",
+    "usage": "5-10 ml twice a day",
+    "active": true
+  },
+  {
+    "id": 21,
+    "ingredients": [
+      {
+        "id": 222,
+        "scale": "mg",
+        "name": "Adhatoda Vasica",
+        "description": "null",
+        "amount": 400,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      },
+      {
+        "id": 223,
+        "scale": "mg",
+        "name": "Glycyrrhiza Glabra",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      },
+      {
+        "id": 224,
+        "scale": "mg",
+        "name": "Cordia Myxa Roxb",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      },
+      {
+        "id": 225,
+        "scale": "mg",
+        "name": "Clerodendrom Scrratum",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      },
+      {
+        "id": 226,
+        "scale": "mg",
+        "name": "Pistacia Integerrima",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      },
+      {
+        "id": 227,
+        "scale": "mg",
+        "name": "Ocimum Santacum",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      },
+      {
+        "id": 228,
+        "scale": "mg",
+        "name": "Ephedra Geradiana",
+        "description": "null",
+        "amount": 250,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      },
+      {
+        "id": 229,
+        "scale": "mg",
+        "name": "Piper longum",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      },
+      {
+        "id": 230,
+        "scale": "mg",
+        "name": "Foeniculum Vulgare",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      },
+      {
+        "id": 231,
+        "scale": "mg",
+        "name": "Lipidum Sativum",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      },
+      {
+        "id": 232,
+        "scale": "mg",
+        "name": "Fagoina Arabica",
+        "description": "null",
+        "amount": 200,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      },
+      {
+        "id": 233,
+        "scale": "mg",
+        "name": "Onasma Bracteutum",
+        "description": "null",
+        "amount": 400,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      },
+      {
+        "id": 234,
+        "scale": "mg",
+        "name": "Solanumxanthocapum",
+        "description": "null",
+        "amount": 400,
+        "amount_scale": "2",
+        "image": null,
+        "product": 21
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "180.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "100 ml",
+      "composition": "Each 10 ml contains",
+      "warning": "null",
+      "p_type": "Syrup"
+    },
+    "images": [
+      {
+        "id": 69,
+        "image": "Unikoff.jpg",
+        "caption": "Unikoff Syrup"
+      },
+      {
+        "id": 70,
+        "image": "Unikoff2.jpg",
+        "caption": "Unikoff Syrup"
+      },
+      {
+        "id": 71,
+        "image": "Unikoff3.jpg",
+        "caption": "Unikoff Syrup"
+      }
+    ],
+    "title": "UNIKOFF",
+    "headline": "Useful in Chronic Cold",
+    "description": "Chest & Alergic Problem;null;null;Useful in Chronic Cold",
+    "indication": "Rhinitis,Acute Bronchitis,Chest Infection",
+    "usage": "10-15 Drops & 5-10ml twice a day with hot water",
+    "active": true
+  },
+  {
+    "id": 11,
+    "ingredients": [
+      {
+        "id": 101,
+        "scale": "mg",
+        "name": "Kapoor",
+        "description": "null",
+        "amount": -1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 11
+      },
+      {
+        "id": 102,
+        "scale": "mg",
+        "name": "Javatri",
+        "description": "null",
+        "amount": -1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 11
+      },
+      {
+        "id": 103,
+        "scale": "mg",
+        "name": "Jaiphal",
+        "description": "null",
+        "amount": -1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 11
+      },
+      {
+        "id": 104,
+        "scale": "mg",
+        "name": "Vidari Beej",
+        "description": "null",
+        "amount": -1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 11
+      },
+      {
+        "id": 105,
+        "scale": "mg",
+        "name": "Vidari Kand",
+        "description": "null",
+        "amount": -1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 11
+      },
+      {
+        "id": 106,
+        "scale": "mg",
+        "name": "Shatavar",
+        "description": "null",
+        "amount": -1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 11
+      },
+      {
+        "id": 107,
+        "scale": "mg",
+        "name": "Nagbala",
+        "description": "null",
+        "amount": -1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 11
+      },
+      {
+        "id": 108,
+        "scale": "mg",
+        "name": "Atibala",
+        "description": "null",
+        "amount": -1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 11
+      },
+      {
+        "id": 109,
+        "scale": "mg",
+        "name": "Gokshru",
+        "description": "null",
+        "amount": -1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 11
+      },
+      {
+        "id": 110,
+        "scale": "mg",
+        "name": "Hijjal",
+        "description": "null",
+        "amount": -1,
+        "amount_scale": "2",
+        "image": null,
+        "product": 11
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "180.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "30 Tablets",
+      "composition": "Each Tablet Contains",
+      "warning": "null",
+      "p_type": "Tablet"
+    },
+    "images": [
+      {
+        "id": 36,
+        "image": "VinCold.jpg",
+        "caption": "Vin Cold"
+      },
+      {
+        "id": 37,
+        "image": "VinCold2.jpg",
+        "caption": "Vin Cold"
+      },
+      {
+        "id": 38,
+        "image": "VinCold3.jpg",
+        "caption": "Vin Cold"
+      }
+    ],
+    "title": "VIN-COLD",
+    "headline": "Useful in Chronic Cold",
+    "description": "Chronic Cold;null;null;Useful in Chronic Cold,Useful in Chest Allergy",
+    "indication": "Chronic Cold,Chest Allergy",
+    "usage": "2 Tablets twice a day",
+    "active": true
+  },
+
+  {
+    "id": 10,
+    "ingredients": [
+      {
+        "id": 94,
+        "scale": "mg",
+        "name": "Rasna",
+        "description": "null",
+        "amount": 15,
+        "amount_scale": "2",
+        "image": null,
+        "product": 10
+      },
+      {
+        "id": 95,
+        "scale": "mg",
+        "name": "Kooth",
+        "description": "null",
+        "amount": 15,
+        "amount_scale": "2",
+        "image": null,
+        "product": 10
+      },
+      {
+        "id": 96,
+        "scale": "mg",
+        "name": "Mulathi",
+        "description": "null",
+        "amount": 15,
+        "amount_scale": "2",
+        "image": null,
+        "product": 10
+      },
+      {
+        "id": 97,
+        "scale": "mg",
+        "name": "Gokhory",
+        "description": "null",
+        "amount": 15,
+        "amount_scale": "2",
+        "image": null,
+        "product": 10
+      },
+      {
+        "id": 98,
+        "scale": "mg",
+        "name": "Vavadinga",
+        "description": "null",
+        "amount": 15,
+        "amount_scale": "2",
+        "image": null,
+        "product": 10
+      },
+      {
+        "id": 99,
+        "scale": "mg",
+        "name": "Dasmool",
+        "description": "null",
+        "amount": 15,
+        "amount_scale": "2",
+        "image": null,
+        "product": 10
+      },
+      {
+        "id": 100,
+        "scale": "mg",
+        "name": "Rasna Patti",
+        "description": "null",
+        "amount": 10,
+        "amount_scale": "2",
+        "image": null,
+        "product": 10
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "190.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": "30 Tablets",
+      "composition": "Each Tablet contains",
+      "warning": "null",
+      "p_type": "Tablet"
+    },
+    "images": [
+      {
+        "id": 33,
+        "image": "VinMigrain.jpg",
+        "caption": "Vin Migrain"
+      },
+      {
+        "id": 34,
+        "image": "VinMigrain2.jpg",
+        "caption": "Vin Migrain"
+      },
+      {
+        "id": 35,
+        "image": "VinMigrain3.jpg",
+        "caption": "Vin Migrain"
+      }
+    ],
+    "title": "VIN-MIGRAIN",
+    "headline": "Useful in Migraine",
+    "description": "Brain Disorder;null;null;Useful in Migraine",
+    "indication": "Mental Disorder,Headache,Insomnia",
+    "usage": "2 tablets twice a day",
+    "active": true
+  }
+]

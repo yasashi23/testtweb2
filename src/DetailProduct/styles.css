@@ -1,0 +1,686 @@
+@media (max-width: 500px) {
+  .product-detail {
+    padding: 5px;
+    margin-top: 80px;
+  }
+
+  .product-detail-a {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .product-detail-image {
+    width: 100%;
+    background: white;
+  }
+  .product-detail-image-a-mobile {
+    width: 100%;
+    border-radius: 2px;
+    border-bottom: none;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  .product-detail-image-a-mobile img {
+    width: 100%;
+    border-radius: 2px;
+  }
+  .product-detail-image-a {
+    display: none;
+  }
+  .product-detail-image-b {
+    width: 100%;
+    overflow-x: scroll;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 12px;
+    border: 1px solid #dedcdc;
+    padding: 8px 3px;
+  }
+  .product-detail-image-b-button {
+    cursor: pointer;
+    height: 100px;
+    border-radius: 2px;
+    margin: 0px 5px;
+    background: white;
+    border: none;
+  }
+  .product-detail-image-b img {
+    height: 100%;
+  }
+  .product-detail-info {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px;
+  }
+  .product-detail-info h2 {
+    font-size: 1.8em;
+    font-weight: 700;
+    color: #262626;
+  }
+  .product-detail-info h3 {
+    font-size: 1.2em;
+    font-family: "roboto", sans-serif;
+    color: #747474;
+    font-weight: 400;
+    margin-bottom: 5px;
+  }
+  .product-detail-info h4 {
+    font-size: 1.2em;
+    font-weight: 500;
+    color: #262626;
+    margin: 10px 0px;
+  }
+  .add-cart {
+    display: flex;
+    flex-direction: column;
+  }
+  .add-cart div {
+    display: flex;
+  }
+  .add-cart div p {
+    font-size: 1.2em;
+    font-family: "Source Sans Pro", sans-serif;
+    color: #262062;
+    margin: 10px 10px;
+  }
+  .add-cart div select {
+    font-weight: bold;
+  }
+  .add-cart button {
+    display: block;
+    width: 150px;
+    padding: 10px 10px;
+    margin-top: 10px;
+    border-radius: 2px;
+    border: none;
+    background-color: #057924;
+    cursor: pointer;
+    border-radius: 2px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    color: white;
+  }
+  .add-cart button:hover {
+    display: block;
+    width: 150px;
+    padding: 10px 10px;
+    margin-top: 10px;
+    border-radius: 2px;
+    border: none;
+    background-color: #07a130;
+    color: white;
+  }
+  .item-added div {
+    display: flex;
+    flex-direction: column;
+  }
+  .item-added p {
+    padding: 10px 20px;
+    border-radius: 2px;
+    background: #eeeeee;
+    margin-top: 10px;
+    font-size: 1em;
+    font-family: "lora", serif;
+    color: #262626;
+    display: inline-block;
+  }
+  .product-desk {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .benefit {
+    padding: 10px 20px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 5px 0px;
+    border-radius: 2px;
+    font-size: 1em;
+    font-family: "lora", serif;
+    color: #262626;
+    background-color: #f5fff5;
+    display: inline-block;
+  }
+  .product-desk-a {
+    width: 100%;
+  }
+  .product-desk-a h2 {
+    font-size: 2em;
+    font-family: "lora", serif;
+
+    color: #414141;
+    margin: 20px 0px;
+  }
+  .ingredient-heading {
+    border-left: 10px solid #057924;
+    padding: 10px;
+    margin: 20px 0px;
+    background-color: #f5f5f5;
+  }
+  .ingredient-heading h3 {
+    font-size: 1.2em;
+    font-family: "lora", serif;
+
+    color: #414141;
+  }
+  .product-desk-a p {
+    font-size: 1.2em;
+    font-family: "lora", serif;
+    color: #262626;
+    margin-bottom: 10px;
+  }
+  .product-desk-b {
+    width: 100%;
+    padding: 10px;
+    border-bottom: 10px solid #495c50;
+    padding-bottom: 35px;
+  }
+  .product-desk-b h2 {
+    font-size: 1.8em;
+    font-family: "lora", serif;
+
+    color: #414141;
+    margin: 20px 0px;
+  }
+  .product-desk-b-detail h3 {
+    font-size: 1em;
+    font-family: "lora", serif;
+    color: #414141;
+
+    margin-right: 10px;
+  }
+  .product-desk-b-detail {
+    padding: 10px 20px;
+    padding-left: 5px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 5px 0px;
+    border-radius: 2px;
+    font-size: 1em;
+    font-family: "lora", serif;
+    color: #262626;
+    background-color: #fbffff;
+    display: inline-block;
+  }
+  .product-desk-b-detail {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  .product-desk-b-detail p {
+    font-size: 1em;
+    font-family: "roboto", sans-serif;
+    font-weight: 500;
+    color: #444141;
+  }
+  .ingredient {
+    padding: 15px;
+    margin: 10px 0px;
+    display: flex;
+    border-radius: 2px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    align-items: center;
+    background: #f7fff9;
+  }
+  .ingredient img {
+    height: 25px;
+  }
+  .ingredient h3 {
+    font-size: 1em;
+    font-family: "roboto", sans-serif;
+    font-weight: 500;
+    margin-left: 10px;
+    color: #414141;
+  }
+  .ingredient p {
+    font-size: 1em;
+    font-family: "roboto", sans-serif;
+    font-weight: 500;
+    color: #414141;
+    margin: 0 10px 0 auto;
+    white-space: nowrap;
+  }
+  .indications {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start !important;
+    justify-content: flex-start;
+    width: 100%;
+  }
+  .indications p {
+    padding: 10px 20px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 5px 0px;
+    border-radius: 2px;
+    font-size: 1em;
+    font-family: "lora", serif;
+    color: #262626;
+    background-color: #fff5f5;
+    display: inline-block;
+  }
+  .gotoCart {
+    padding: 10px;
+    padding-left: 0px;
+    text-align: center;
+    text-decoration: none;
+    color: #037722;
+    font-weight: 900;
+    font-size: 1em;
+
+    text-decoration: underline;
+    border-radius: 2px;
+    z-index: 50;
+  }
+  .buy-product {
+    background-color: #f5fff5;
+    padding: 15px 5px;
+    padding-left: 10px;
+    border: 4px solid #1d5515;
+  }
+  .buy-product h4 {
+    font-size: 1.1em;
+    font-weight: 500;
+    color: #262626;
+    margin: 10px 0px;
+  }
+  .buy-product form {
+    display: flex;
+    flex-direction: column;
+  }
+  .buy-product form label {
+    font-size: 0.9em;
+    margin-bottom: 5px;
+  }
+  .buy-product form label input {
+    margin-left: 10px;
+    padding: 5px 2px;
+    font-size: 1em;
+  }
+  .buy-product form button {
+    width: 150px;
+    border: none;
+    color: white;
+    font-size: 0.9em;
+    padding: 10px 10px;
+    background-color: #1d5515;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+}
+
+@media (min-width: 500px) {
+  .product-detail {
+    padding: 20px;
+    margin-top: 100px;
+  }
+
+  .product-detail-a {
+    margin-bottom: 20px;
+    display: flex;
+    width: 100%;
+  }
+
+  .product-detail-image {
+    width: 40%;
+    background: white;
+  }
+  .product-detail-image-a {
+    width: 100%;
+    border-radius: 2px;
+    border-bottom: none;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  .product-detail-image-a img {
+    width: 100%;
+    height: 100%;
+    border-radius: 2px;
+  }
+
+  .product-detail-image-b {
+    width: 100%;
+    padding: 1px;
+    overflow-x: scroll;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 12px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  .product-detail-image-b-button {
+    cursor: pointer;
+    height: 200px;
+    border-radius: 2px;
+    margin: 0px 5px;
+    background: white;
+    border: none;
+  }
+  .product-detail-image-b img {
+    height: 100%;
+  }
+  .product-detail-info {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    padding: 20px;
+  }
+  .product-detail-info h2 {
+    font-size: 1.8em;
+    font-weight: 700;
+    color: #262626;
+  }
+  .product-detail-info h3 {
+    font-size: 1.2em;
+    font-family: "roboto", sans-serif;
+    color: #747474;
+    font-weight: 400;
+    margin-bottom: 5px;
+  }
+  .product-detail-info h4 {
+    font-size: 1.2em;
+    font-weight: 500;
+
+    color: #262626;
+    margin: 10px 0px;
+  }
+  .add-cart {
+    display: flex;
+    flex-direction: column;
+  }
+  .add-cart div {
+    display: flex;
+  }
+  .add-cart div p {
+    font-size: 1.2em;
+    font-family: "Source Sans Pro", sans-serif;
+    color: #262062;
+    margin: 10px 10px;
+  }
+  .add-cart div select {
+    font-weight: bold;
+  }
+  .add-cart button {
+    display: block;
+    width: 150px;
+    padding: 10px 10px;
+    margin-top: 10px;
+    border-radius: 2px;
+    border: none;
+    background-color: #057924;
+    cursor: pointer;
+    border-radius: 2px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    color: white;
+  }
+  .add-cart button:hover {
+    display: block;
+    width: 150px;
+    padding: 10px 10px;
+    margin-top: 10px;
+    border-radius: 2px;
+    border: none;
+    background-color: #07a130;
+    color: white;
+  }
+  .item-added p {
+    padding: 10px 20px;
+    border-radius: 2px;
+    background: #eeeeee;
+    margin-top: 10px;
+    font-size: 1em;
+    font-family: "lora", serif;
+    color: #262626;
+    display: inline-block;
+  }
+  .product-desk {
+    display: flex;
+  }
+  .benefit {
+    padding: 10px 20px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 5px 0px;
+    border-radius: 2px;
+    font-size: 1em;
+    font-family: "lora", serif;
+    color: #262626;
+    background-color: #f5fff5;
+    display: inline-block;
+  }
+  .product-desk-a {
+    width: 60%;
+    padding-right: 10px;
+    border-right: 10px solid #495c50;
+  }
+  .product-desk-a h2 {
+    font-size: 2em;
+    font-family: "lora", serif;
+
+    color: #414141;
+    margin: 20px 0px;
+  }
+  .ingredient-heading {
+    border-left: 10px solid #057924;
+    padding: 10px;
+    margin: 20px 0px;
+    background-color: #f5f5f5;
+  }
+  .ingredient-heading h3 {
+    font-size: 1.5em;
+    font-family: "lora", serif;
+
+    color: #414141;
+  }
+  .product-desk-a p {
+    font-size: 1.2em;
+    font-family: "lora", serif;
+    color: #262626;
+    margin-bottom: 10px;
+  }
+  .product-desk-b {
+    width: 40%;
+    padding-left: 20px;
+  }
+  .product-desk-b h2 {
+    font-size: 2em;
+    font-family: "lora", serif;
+
+    color: #414141;
+    margin: 20px 0px;
+  }
+  .product-desk-b-detail h3 {
+    font-size: 1.2em;
+    font-family: "lora", serif;
+    color: #414141;
+
+    margin-right: 10px;
+  }
+  .product-desk-b-detail {
+    padding: 10px 20px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 5px 0px;
+    border-radius: 2px;
+    font-size: 1em;
+    font-family: "lora", serif;
+    color: #262626;
+    background-color: #fbffff;
+    display: inline-block;
+  }
+  .product-desk-b-detail {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  .product-desk-b-detail p {
+    font-size: 1em;
+    font-family: "roboto", sans-serif;
+    font-weight: 500;
+    color: #444141;
+  }
+  .ingredient {
+    padding: 15px;
+    margin: 10px 0px;
+    display: flex;
+    border-radius: 2px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    align-items: center;
+    background: #f7fff9;
+  }
+  .ingredient img {
+    height: 25px;
+  }
+  .ingredient h3 {
+    font-size: 1em;
+    font-family: "roboto", sans-serif;
+    font-weight: 500;
+    color: #414141;
+    margin-left: 10px;
+  }
+  .ingredient p {
+    font-size: 1em;
+    font-family: "roboto", sans-serif;
+    font-weight: 500;
+    color: #414141;
+    margin: 0 10px 0 auto;
+    white-space: nowrap;
+  }
+  .indications {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start !important;
+    justify-content: flex-start;
+    width: 100%;
+  }
+  .indications p {
+    padding: 10px 20px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 5px 0px;
+    border-radius: 2px;
+    font-size: 1em;
+    font-family: "lora", serif;
+    color: #262626;
+    background-color: #fff5f5;
+    display: inline-block;
+  }
+
+  .product-detail-image-a-mobile {
+    display: none;
+  }
+  .gotoCart {
+    padding: 10px;
+    text-decoration: none;
+    color: #037722;
+    font-weight: 900;
+    font-size: 1em;
+    margin-left: 10px;
+    text-decoration: underline;
+    border-radius: 2px;
+    z-index: 50;
+  }
+  .buy-product {
+    background-color: #f5fff5;
+    padding: 15px 5px;
+    padding-left: 10px;
+    border: 4px solid #1d5515;
+  }
+  .buy-product h4 {
+    font-size: 1.1em;
+    font-weight: 500;
+    color: #262626;
+    margin: 10px 0px;
+  }
+  .buy-product form {
+    display: flex;
+    flex-direction: column;
+  }
+  .buy-product form label {
+    font-size: 0.9em;
+    margin-bottom: 5px;
+  }
+  .buy-product form label input {
+    margin-left: 10px;
+    padding: 5px 2px;
+    font-size: 1em;
+  }
+  .buy-product form button {
+    width: 150px;
+    border: none;
+    color: white;
+    font-size: 0.9em;
+    padding: 10px 10px;
+    background-color: #1d5515;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+}
+.share {
+  display: flex;
+  flex-direction: row;
+}
+.share button {
+  border: none;
+  background-color: #4e9045;
+  margin-left: 25px;
+  padding: 9px 24px;
+  font-size: 0.9em;
+  cursor: pointer;
+  color: white;
+  margin-top: -2px;
+}
+
+.buy-product {
+  background-color: #f5fff5;
+  padding: 15px 5px;
+  padding-left: 10px;
+  border: 4px solid #1d5515;
+}
+.buy-product h4 {
+  font-size: 1.1em;
+  font-weight: 500;
+  color: #262626;
+  margin: 10px 0px;
+}
+.buy-product h5 {
+  font-size: 1.1em;
+  font-weight: 900;
+  color: #262626;
+  margin-top: 10px;
+}
+.buy-product p {
+  font-size: 1em;
+  font-weight: 400;
+  color: #262626;
+  margin-top: 5px;
+}
+.buy-product form {
+  display: flex;
+  flex-direction: column;
+}
+.buy-product form label {
+  font-size: 0.9em;
+  margin-bottom: 5px;
+}
+.buy-product form label input {
+  margin-left: 10px;
+  padding: 5px 2px;
+  font-size: 1em;
+}
+.buy-product form button {
+  width: 150px;
+  border: none;
+  color: white;
+  font-size: 0.9em;
+  padding: 10px 10px;
+  background-color: #1d5515;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.buy-product-response {
+  background-color: #f2f7ff;
+  border-color: #bbd0f3;
+}
+.form-error {
+  color: tomato !important;
+  margin: 5px 5px 10px 0px !important;
+}
+.error-glow {
+  border: 2px solid tomato;
+}
