@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/testtweb2/static/css/main.dace34f2.chunk.css",
+    "main.js": "/testtweb2/static/js/main.aadcf936.chunk.js",
+    "main.js.map": "/testtweb2/static/js/main.aadcf936.chunk.js.map",
+    "runtime-main.js": "/testtweb2/static/js/runtime-main.0b8fc1cc.js",
+    "runtime-main.js.map": "/testtweb2/static/js/runtime-main.0b8fc1cc.js.map",
+    "static/css/2.8ae0d9e4.chunk.css": "/testtweb2/static/css/2.8ae0d9e4.chunk.css",
+    "static/js/2.883a9042.chunk.js": "/testtweb2/static/js/2.883a9042.chunk.js",
+    "static/js/2.883a9042.chunk.js.map": "/testtweb2/static/js/2.883a9042.chunk.js.map",
+    "static/js/3.70089391.chunk.js": "/testtweb2/static/js/3.70089391.chunk.js",
+    "static/js/3.70089391.chunk.js.map": "/testtweb2/static/js/3.70089391.chunk.js.map",
+    "index.html": "/testtweb2/index.html",
+    "static/css/2.8ae0d9e4.chunk.css.map": "/testtweb2/static/css/2.8ae0d9e4.chunk.css.map",
+    "static/css/main.dace34f2.chunk.css.map": "/testtweb2/static/css/main.dace34f2.chunk.css.map",
+    "static/js/2.883a9042.chunk.js.LICENSE.txt": "/testtweb2/static/js/2.883a9042.chunk.js.LICENSE.txt",
+    "static/media/SthultaHari.f85fa46e.jpg": "/testtweb2/static/media/SthultaHari.f85fa46e.jpg",
+    "static/media/ayurvedic-ingredients.328e3b5e.svg": "/testtweb2/static/media/ayurvedic-ingredients.328e3b5e.svg",
+    "static/media/conceiveN.c4620041.jpg": "/testtweb2/static/media/conceiveN.c4620041.jpg",
+    "static/media/navbarS.css": "/testtweb2/static/media/leafs.4970cfae.png",
+    "static/media/logo_dark.66ace7b0.svg": "/testtweb2/static/media/logo_dark.66ace7b0.svg",
+    "static/media/slider-styles.css": "/testtweb2/static/media/next.7eaf8cd0.svg",
+    "static/media/spermforte.5fe7cfa7.jpg": "/testtweb2/static/media/spermforte.5fe7cfa7.jpg",
+    "static/media/srasMedicines.c3780b94.jpg": "/testtweb2/static/media/srasMedicines.c3780b94.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b8fc1cc.js",
+    "static/css/2.8ae0d9e4.chunk.css",
+    "static/js/2.883a9042.chunk.js",
+    "static/css/main.dace34f2.chunk.css",
+    "static/js/main.aadcf936.chunk.js"
+  ]
+}
